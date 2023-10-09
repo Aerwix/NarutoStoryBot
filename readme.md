@@ -8,4 +8,4 @@ This Bot was developed by @Aerwix
     - Jump Tree (0 to 35)
     - Water Walk (35 to 70)
     - Healing Fish (70 to 100)
-- Create Scrolls or Pills with 
+- Create Scrolls or Pills and Attack Log

@@ -5,5 +5,7 @@ This Bot was developed by @Aerwix
 
 # Features
 - Chakra Train
-    - 0 to 35 (Jump Tree)
+    - Jump Tree (0 to 35)
+    - Water Walk (35 to 70)
+    - Healing Fish (70 to 100)
 - Create Scrolls or Pills with 

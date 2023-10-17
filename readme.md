@@ -1,5 +1,4 @@
-This bot will cover the basic needs that are running into [Naruto Story](https://narutostory.net/)
-
+This bot will cover the basic needs that are running into [Naruto Story](https://narutostory.net/).
 ## Requeriments
 - [AutoHotkey v1.1](https://www.autohotkey.com/download/ahk-install.exe)
 
